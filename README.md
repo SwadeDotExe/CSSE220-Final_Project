@@ -26,27 +26,27 @@ For the arcade game project, we made a classic arcade style Bomb Jack game. Usin
 ## Extra Features:
 - The hero has shooting capability (shoot little mario bullets), and if an alien is hit by the hero’s bullet, then the alien is destroyed and disappears from the screen and the hero scores points. [Keystrokes: **W** (to shoot to left of hero) and **E** (to shoot to right of hero)
 
-![Bullets](https://github.com/swadewhite/CSSE220-Final-Project/blob/main/GIFs/Shooting.gif)
+![Bullets](https://github.com/swadewhite/CSSE220-Final_Project/blob/main/GIFs/Shooting.gif)
 
 - Custom edited backgrounds and images to look like the actual game.
 
-![Background](https://github.com/swadewhite/CSSE220-Final-Project/blob/main/images/Background3.png)
+![Background](https://github.com/swadewhite/CSSE220-Final_Project/blob/main/images/Background3.png)
 
 - Gameover and game win screens
 
-![GameOver](https://github.com/swadewhite/CSSE220-Final-Project/blob/main/GIFs/GameOver.gif)
+![GameOver](https://github.com/swadewhite/CSSE220-Final_Project/blob/main/GIFs/GameOver.gif)
 
 - There is a second type of alien that is designed to track the hero and move towards him depending on his location in relation to the alien.
 
-![Tracking](https://github.com/swadewhite/CSSE220-Final-Project/blob/main/GIFs/Tracking.gif)
+![Tracking](https://github.com/swadewhite/CSSE220-Final_Project/blob/main/GIFs/Tracking.gif)
 
 - Boss Level: Consists of a giant tracking alien. Requires a bunch of bullets to kill the alien, and you have to beat the alien in order to win the game.
 
-![BossLevel](https://github.com/swadewhite/CSSE220-Final-Project/blob/main/GIFs/BossLevel.gif)
+![BossLevel](https://github.com/swadewhite/CSSE220-Final_Project/blob/main/GIFs/BossLevel.gif)
 
 - Debug Stats
 
-![DebugStats](https://github.com/swadewhite/CSSE220-Final-Project/blob/main/images/DebugStats.png)
+![DebugStats](https://github.com/swadewhite/CSSE220-Final_Project/blob/main/images/DebugStats.png)
 
 # UML Class Diagrams
 - Original UML Diagram:
